@@ -75,7 +75,7 @@ Let us know your thoughts below. And good luck with development!
 | Material-UI |
 | ----------- |
 
-| [![Soft UI Dashboard PRO Material-UI](https://s3.amazonaws.com/creativetim_bucket/products/499/original/soft-ui-dashboard-pro-material-ui.jpg)](http://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default?ref=readme-sudpmui)
+[![Soft UI Dashboard PRO Material-UI](https://s3.amazonaws.com/creativetim_bucket/products/499/thumb/soft-ui-dashboard-pro-material-ui.jpg)](http://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default?ref=readme-sudpmui)
 
 ## Demo
 
