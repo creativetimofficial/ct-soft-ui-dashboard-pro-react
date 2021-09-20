@@ -1,38 +1,38 @@
-# [Soft UI Dashboard PRO Material-UI](http://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default?ref=readme-sudpmui) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-pro-material-ui&text=Check%20Soft%20UI%20Dashboard%20Pro%20material-ui%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-pro-material-ui)
+# [Soft UI Dashboard PRO React](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-pro-react&text=Check%20Soft%20UI%20Dashboard%20Pro%React%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-pro-react)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-material-ui.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-material-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-material-ui.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-material-ui/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-react-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/499/original/soft-ui-dashboard-pro-material-ui.jpg)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/499/original/soft-ui-dashboard-pro-material-ui.jpg?1632132493)
 
 Start your Development with an Innovative Admin Template for Material-UI and React. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
 **Fully Coded Elements**
-Soft UI Dashboard PRO Material-UI is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using JSS files and classes. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium Material-UI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+Soft UI Dashboard PRO React is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using JSS files and classes. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium Material-UI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-View [all components here](https://www.creative-tim.com/learning-lab/material-ui/alerts/soft-ui-dashboard).
+View [all components here](https://www.creative-tim.com/learning-lab/react/alerts/soft-ui-dashboard).
 
 **Documentation built by Developers**
 
 Each element is well presented in very complex documentation.
 
-You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/material-ui/overview/soft-ui-dashboard).
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard).
 
 **Example Pages**
 
-If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Soft UI Dashboard PRO Material-UI has everything you need to quickly set up an amazing project.
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Soft UI Dashboard PRO React has everything you need to quickly set up an amazing project.
 
-View [example pages here](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default).
+View [example pages here](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default).
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-material-ui)
+- View [Github Repository](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [Material-UI](https://material-ui.com/) - React components for faster and easier web development.
+- [Material-UI](https://mui.com/) - React components for faster and easier web development.
 - [React Table](https://react-table.tanstack.com/) - Lightweight and extensible data tables for React
 - [React Flatpickr](https://github.com/haoxins/react-flatpickr) - Useful library used to select date
 - [React Select](https://react-select.com/) - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support.
@@ -70,33 +70,33 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-material-ui.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-material-ui?ref=readme-sudpmui)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudpr)
 
-| Material-UI |
-| ----------- |
+| React |
+| ----- |
 
-[![Soft UI Dashboard PRO Material-UI](https://s3.amazonaws.com/creativetim_bucket/products/499/thumb/soft-ui-dashboard-pro-material-ui.jpg)](http://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default?ref=readme-sudpmui)
+| [![Soft UI Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/499/thumb/soft-ui-dashboard-pro-material-ui.jpg?1632132493)](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr)
 
 ## Demo
 
-- [Dashboard](http://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default?ref=readme-sudpmui)
-- [Automotive](http://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/automotive?ref=readme-sudpmui)
-- [Virtual Reality](http://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/virtual-reality/default?ref=readme-sudpmui)
-- [Profile](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/pages/profile/profile-overview?ref=readme-sudpmui)
-- [Account](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/pages/account/settings?ref=readme-sudpmui)
-- [RTL](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/pages/rtl?ref=readme-sudpmui)
-- [Applications](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/applications/kanban?ref=readme-sudpmui)
-- [Ecommerce](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/ecommerce/overview?ref=readme-sudpmui)
-- [Sign In](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/authentication/sign-in/basic?ref=readme-sudpmui)
-- [Sign Up](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/authentication/sign-up/basic?ref=readme-sudpmui)
+- [Dashboard](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr)
+- [Automotive](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/automotive?ref=readme-sudpr)
+- [Virtual Reality](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/virtual-reality/default?ref=readme-sudpr)
+- [Profile](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/pages/profile/profile-overview?ref=readme-sudpr)
+- [Account](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/pages/account/settings?ref=readme-sudpr)
+- [RTL](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/pages/rtl?ref=readme-sudpr)
+- [Applications](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/applications/kanban?ref=readme-sudpr)
+- [Ecommerce](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/ecommerce/overview?ref=readme-sudpr)
+- [Sign In](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/authentication/sign-in/basic?ref=readme-sudpr)
+- [Sign Up](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/authentication/sign-up/basic?ref=readme-sudpr)
 
-[View More](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default?ref=readme-sudpmui).
+[View More](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr).
 
 ## Quick start
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard-pro-material-ui?ref=readme-sudpmui).
+- Buy from [Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudpr).
 
 ## Terminal Commands
 
@@ -105,14 +105,14 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/material-ui/overview/soft-ui-dashboard?ref=readme-sudpmui).
+The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard?ref=readme-sudpr).
 
 ### What's included
 
 Within the download you'll find the following directories and files:
 
 ```
-soft-ui-dashboard-pro
+soft-ui-dashboard-pro-react
     ├── public
     │   ├── apple-icon.png
     │   ├── favicon.png
@@ -221,39 +221,39 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard-pro-material-ui/#/dashboards/default?ref=readme-sudpmui)
-- [Buy Page](https://www.creative-tim.com/product/soft-ui-dashboard-pro-material-ui?ref=readme-sudpmui)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/material-ui/overview/soft-ui-dashboard?ref=readme-sudpmui)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-sudpmui)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-sudpmui)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-material-ui/issues)
+- [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr)
+- [Buy Page](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudpr)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard?ref=readme-sudpr)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-sudpr)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-sudpr)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Soft UI Dashboard PRO Material-UI. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Soft UI Dashboard PRO React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Soft UI Dashboard PRO Material-UI. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-pro-material-ui?ref=readme-sudpmui).
+1. Make sure that you are using the latest version of the Soft UI Dashboard PRO React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudpr).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-sudpmui) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-sudpr) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudpmui)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudpmui)
+- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudpr)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudpr)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-sudpmui) from Creative Tim
+- [More products](https://www.creative-tim.com/templates?ref=readme-sudpr) from Creative Tim
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudpmui) from Creative Tim
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudpr) from Creative Tim
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudpmui) (earn money)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudpr) (earn money)
 
 ##### Social Media
 
