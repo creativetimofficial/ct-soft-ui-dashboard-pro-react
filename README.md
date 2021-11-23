@@ -1,13 +1,13 @@
 # [Soft UI Dashboard PRO React](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-pro-react&text=Check%20Soft%20UI%20Dashboard%20Pro%React%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-pro-react)
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-react-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-react-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/499/original/soft-ui-dashboard-pro-material-ui.jpg?1632132493)
 
-Start your Development with an Innovative Admin Template for Material-UI and React. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
 **Fully Coded Elements**
-Soft UI Dashboard PRO React is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using JSS files and classes. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium Material-UI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+Soft UI Dashboard PRO React is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled api and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 View [all components here](https://www.creative-tim.com/learning-lab/react/alerts/soft-ui-dashboard).
 
@@ -32,25 +32,27 @@ View [example pages here](https://demos.creative-tim.com/soft-ui-dashboard-pro-r
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [Material-UI](https://mui.com/) - React components for faster and easier web development.
-- [React Table](https://react-table.tanstack.com/) - Lightweight and extensible data tables for React
-- [React Flatpickr](https://github.com/haoxins/react-flatpickr) - Useful library used to select date
+- [MUI](https://mui.com/) - The React UI library for faster and easier web development.
+- [React Table](https://react-table.tanstack.com/) - Lightweight and extensible data tables for React.
+- [React Flatpickr](https://github.com/haoxins/react-flatpickr) - Useful library used to select date.
 - [React Select](https://react-select.com/) - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support.
-- [React Tag Input](https://betterstack.dev/projects/react-tag-input/) - A minimal and performant input field for creating multiple tags.
+- [React Tag Input](https://betterstack.dev/projects/react-tag-input/) - React Tag Input is a robust, minimal and performant input field for creating multiple tags.
 - [React Countup](https://github.com/glennreyes/react-countup) - A lightweight React component that can be used to quickly create animations that display numerical data in a more interesting way.
-- [React ChartJS 2](http://reactchartjs.github.io/react-chartjs-2/#/) - Simple yet flexible React charting for designers & developers
-- [Full Calendar](https://fullcalendar.io/) - Full-sized drag & drop event calendar
-- [Dropzone](https://www.dropzonejs.com/) - An open source library that provides drag’n’drop file uploads with image previews.
+- [React ChartJS 2](http://reactchartjs.github.io/react-chartjs-2/#/) - Simple yet flexible React charting for designers & developers.
+- [Full Calendar](https://fullcalendar.io/) - Full-sized drag & drop event calendar.
+- [Dropzone](https://www.dropzonejs.com/) - An open source library that provides drag & drop file uploads with image previews.
 - [React Kanban](https://github.com/asseinfo/react-kanban) - Kanban/Trello board lib for React.
-- [React Images Viewer](https://guonanci.github.io/react-images-viewer/) - A simple, responsive imgsViewer component for ReactJS to display an array of images.
-- [React Quill](https://github.com/zenoamaro/react-quill) - A free, open source WYSIWYG editor built for the modern web
+- [React Images Viewer](https://guonanci.github.io/react-images-viewer/) - A simple, responsive images viewer component for ReactJS.
+- [React Quill](https://github.com/zenoamaro/react-quill) - A free, open source WYSIWYG editor built for the modern web.
 - [Sweet Alert 2](https://sweetalert2.github.io/) - A beautiful, responsive, customisable, accessible replacement for Javascript’s popup boxes.
 - [ThreeJS](https://threejs.org/) - JavaScript 3D library
-- [Formik](https://formik.org/) - The world's most popular open source form library for React and React Native.
-- [React Tilt](https://www.npmjs.com/package/react-tilt) - React wrapper for the Tilt.js.
+- [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native.
+- [React Tilt](https://www.npmjs.com/package/react-tilt) - A tiny lightweight parallax hover tilt effect for React.
 - [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps.
 - [React Circular Slider](https://marc.khouri.ca/react-circular-slider/) - A full-featured circular slider React component, with full TypeScript definitions.
 - [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
+- [UUID](https://github.com/uuidjs/uuid) - JavaScript library for generating random id numbers.
+- [React HTML Parser](https://github.com/peternewnham/react-html-parser) - A utility for converting HTML strings into React components.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -101,7 +103,7 @@ Quick start options:
 ## Terminal Commands
 
 1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root / directory and run yarn install/npm install to install our local dependencies.
+2. Navigate to the root ./ directory of the product and run `yarn install` or `npm install` to install our local dependencies.
 
 ## Documentation
 
@@ -202,7 +204,7 @@ soft-ui-dashboard-pro-react
     │   │        └── widgets
     │   ├── App.js
     │   ├── index.js
-    │   ├── pageRoutes.js
+    │   ├── page.routes.js
     │   └── routes.js
     ├── .eslintrc.json
     ├── .prettierrc.json
