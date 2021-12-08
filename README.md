@@ -9,7 +9,7 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 **Fully Coded Elements**
 Soft UI Dashboard PRO React is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled api and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-View [all components here](https://www.creative-tim.com/learning-lab/react/alerts/soft-ui-dashboard).
+View [all components here](https://www.creative-tim.com/learning-lab/react/alerts/soft-ui-dashboard/).
 
 **Documentation built by Developers**
 
@@ -225,7 +225,7 @@ At present, we officially aim to support the last two versions of the following 
 
 - [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr)
 - [Buy Page](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudpr)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard?ref=readme-sudpr)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/?ref=readme-sudpr)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-sudpr)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-sudpr)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues)
