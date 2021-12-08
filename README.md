@@ -15,7 +15,7 @@ View [all components here](https://www.creative-tim.com/learning-lab/react/alert
 
 Each element is well presented in very complex documentation.
 
-You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard).
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/).
 
 **Example Pages**
 
@@ -107,7 +107,7 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard?ref=readme-sudpr).
+The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/?ref=readme-sudpr).
 
 ### What's included
 
