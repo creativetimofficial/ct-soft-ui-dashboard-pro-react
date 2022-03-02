@@ -1,5 +1,74 @@
 # Change Log
 
+## [3.1.0] 2022-03-02
+
+### Bug fixing
+
+- Add the color prop to the useMemo dependencies list of ProgressLineChart
+- Fix the non-nested route issue
+- Momoized the context provider values
+- Fix the conditionally used of useContext for SuiPagination component
+- Fix the import/no-anonymouse-default-export
+- Add a new command `install:peer-deps` for fixing the peer dependencies issue when installing the dependencies using npm
+
+### Major style changes
+
+### Deleted components
+
+### Added components
+
+### Deleted dependencies
+
+```
+react-html-parser
+react-tilt
+```
+
+### Added dependencies
+
+```
+html-react-parser
+vanilla-tilt
+```
+
+### Updated dependencies
+
+```
+@asseinfo/react-kanban               2.1.0          →         2.2.0
+@emotion/cache                       11.4.0         →         11.7.1
+@emotion/react                       11.4.1         →         11.8.1
+@emotion/styled                      11.3.0         →         11.8.1
+@fullcalendar/daygrid                5.9.0          →         5.10.1
+@fullcalendar/interaction            5.9.0          →         5.10.1
+@fullcalendar/react                  5.9.0          →         5.10.1
+@fullcalendar/timegrid               5.9.0          →         5.10.1
+@mui/icons-material                  5.1.1          →         5.4.2
+@mui/material                        5.1.1          →         5.4.3
+@mui/styled-engine                   5.1.1          →         5.4.2
+@react-leaflet/core                  1.0.2          →         1.1.1
+@testing-library/jest-dom            5.11.4         →         5.16.2
+@testing-library/react               11.1.0         →         12.1.3
+@testing-library/user-event          12.1.10        →         13.5.0
+chroma-js                            2.1.2          →         2.4.2
+dropzone                             5.9.2          →         5.9.3
+prop-types                           15.7.2         →         15.8.1
+react-countup                        5.2.0          →         6.1.1
+react-images-viewer                  1.6.7          →         1.7.1
+react-leaflet                        2.7.0          →         3.2.5
+react-router-dom                     5.2.0          →         6.2.1
+react-scripts                        4.0.3          →         5.0.0
+react-select                         4.3.1          →         5.2.2
+stylis                               4.0.10         →         4.0.13
+stylis-plugin-rtl                    2.1.0          →         2.1.1
+sweetalert2                          11.1.2         →         11.4.4
+web-vitals                           1.0.1          →         2.1.4
+yup                                  0.32.9         →         0.32.11
+```
+
+### Warning
+
+There are 2 warnings related to the stylis-plugin-rtl and @pathofdev/react-tag-input dependencies that won't affect on the behavior of the product its something with these libraries itself.
+
 ## [3.0.0] 2021-11-23
 
 ### Bug fixing
