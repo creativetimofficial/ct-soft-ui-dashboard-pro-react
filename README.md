@@ -1,8 +1,8 @@
 # [Soft UI Dashboard PRO React](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-pro-react&text=Check%20Soft%20UI%20Dashboard%20Pro%React%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-pro-react)
 
-![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-react-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/499/original/soft-ui-dashboard-pro-material-ui.jpg?1632132493)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/499/original/soft-ui-dashboard-pro-material-ui.jpg)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
@@ -47,12 +47,12 @@ During the development of this dashboard, we have used many existing resources f
 - [Sweet Alert 2](https://sweetalert2.github.io/) - A beautiful, responsive, customisable, accessible replacement for Javascript’s popup boxes.
 - [ThreeJS](https://threejs.org/) - JavaScript 3D library
 - [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native.
-- [React Tilt](https://www.npmjs.com/package/react-tilt) - A tiny lightweight parallax hover tilt effect for React.
+- [Vanilla Tilt](https://www.npmjs.com/package/vanilla-tilt) - A lightweight parallax hover tilt effect for JavaScript.
 - [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps.
 - [React Circular Slider](https://marc.khouri.ca/react-circular-slider/) - A full-featured circular slider React component, with full TypeScript definitions.
 - [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
 - [UUID](https://github.com/uuidjs/uuid) - JavaScript library for generating random id numbers.
-- [React HTML Parser](https://github.com/peternewnham/react-html-parser) - A utility for converting HTML strings into React components.
+- [HTML React Parser](https://github.com/remarkablemark/html-react-parser) - A utility for converting HTML strings into React components.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -77,7 +77,7 @@ Let us know your thoughts below. And good luck with development!
 | React |
 | ----- |
 
-| [![Soft UI Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/499/thumb/soft-ui-dashboard-pro-material-ui.jpg?1632132493)](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr)
+| [![Soft UI Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/499/thumb/soft-ui-dashboard-pro-material-ui.jpg)](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr)
 
 ## Demo
 
@@ -244,7 +244,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudpr)
+- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-sudpr)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudpr)
 
 ## Useful Links
