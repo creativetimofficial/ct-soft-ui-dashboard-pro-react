@@ -1,6 +1,6 @@
 # [Soft UI Dashboard PRO React](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default?ref=readme-sudpr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-pro-react&text=Check%20Soft%20UI%20Dashboard%20Pro%React%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-pro-react)
 
-![version](https://img.shields.io/badge/version-3.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-4.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro-react.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/499/original/soft-ui-dashboard-pro-material-ui.jpg)
 
@@ -131,23 +131,23 @@ soft-ui-dashboard-pro-react
     │   │       ├── index.js
     │   │       └── theme-rtl.js
     │   ├── components
-    │   │   ├── SuiAlert
-    │   │   ├── SuiAvatar
-    │   │   ├── SuiBadge
-    │   │   ├── SuiBadgeDot
-    │   │   ├── SuiBox
-    │   │   ├── SuiButton
-    │   │   ├── SuiDatePicker
-    │   │   ├── SuiDropzone
-    │   │   ├── SuiEditor
-    │   │   ├── SuiInput
-    │   │   ├── SuiPagination
-    │   │   ├── SuiProgress
-    │   │   ├── SuiSelect
-    │   │   ├── SuiSnackbar
-    │   │   ├── SuiSocialButton
-    │   │   ├── SuiTagInput
-    │   │   └── SuiTypography
+    │   │   ├── SoftAlert
+    │   │   ├── SoftAvatar
+    │   │   ├── SoftBadge
+    │   │   ├── SoftBadgeDot
+    │   │   ├── SoftBox
+    │   │   ├── SoftButton
+    │   │   ├── SoftDatePicker
+    │   │   ├── SoftDropzone
+    │   │   ├── SoftEditor
+    │   │   ├── SoftInput
+    │   │   ├── SoftPagination
+    │   │   ├── SoftProgress
+    │   │   ├── SoftSelect
+    │   │   ├── SoftSnackbar
+    │   │   ├── SoftSocialButton
+    │   │   ├── SoftTagInput
+    │   │   └── SoftTypography
     │   ├── context
     │   ├── examples
     │   │   ├── Breadcrumbs
