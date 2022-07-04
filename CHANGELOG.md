@@ -1,5 +1,13 @@
 # Change Log
 
+## [4.0.0] 2022-07-04
+
+- Rename components prefix from Sui to Soft.
+- Update dependencies.
+- Fix the peer dependencies issue.
+- Fix the eslint issue with react-app.
+- Migrate eslint config from airbnb to react-app.
+
 ## [3.1.0] 2022-03-02
 
 ### Bug fixing
@@ -7,7 +15,7 @@
 - Add the color prop to the useMemo dependencies list of ProgressLineChart
 - Fix the non-nested route issue
 - Momoized the context provider values
-- Fix the conditionally used of useContext for SuiPagination component
+- Fix the conditionally used of useContext for SoftPagination component
 - Fix the import/no-anonymouse-default-export
 - Add a new command `install:peer-deps` for fixing the peer dependencies issue when installing the dependencies using npm
 
@@ -79,17 +87,17 @@ There are 2 warnings related to the stylis-plugin-rtl and @pathofdev/react-tag-i
 - The `box-shadow`, `border-radius` and `typography` `regular` size renamed to `md` for theme
 - The `backgroundColor` prop renamed to `bgColor` for components
 - The `boxShadow` prop renamed to `shadow` for components
-- SuiBox `backgroundGradient` prop replaced with `variant: ["contained", "gradient"]`
-- SuiButton `buttonColor` prop renamed to `color`
-- SuiSocialButton `buttonColor` prop renamed to `color`
-- SuiBadge `size` prop updated to ["xs", "sm", "md", "lg"]
-- SuiBadgeDot `size` prop updated to ["xs", "sm", "md", "lg"]
-- SuiBadgeDot `gradient` prop replaced with `variant: ["contained", "gradient"]`
-- SuiInput `withIcon` prop renamed to `icon`
-- SuiProgress `gradient` prop replaced with `variant: ["contained", "gradient"]`
-- SuiTypography `textColor` prop renamed to `color`
-- SuiSnackbar `type` prop renamed to `color`
-- New prop `bgWhite` added for SuiSnackbar
+- SoftBox `backgroundGradient` prop replaced with `variant: ["contained", "gradient"]`
+- SoftButton `buttonColor` prop renamed to `color`
+- SoftSocialButton `buttonColor` prop renamed to `color`
+- SoftBadge `size` prop updated to ["xs", "sm", "md", "lg"]
+- SoftBadgeDot `size` prop updated to ["xs", "sm", "md", "lg"]
+- SoftBadgeDot `gradient` prop replaced with `variant: ["contained", "gradient"]`
+- SoftInput `withIcon` prop renamed to `icon`
+- SoftProgress `gradient` prop replaced with `variant: ["contained", "gradient"]`
+- SoftTypography `textColor` prop renamed to `color`
+- SoftSnackbar `type` prop renamed to `color`
+- New prop `bgWhite` added for SoftSnackbar
 - WheatherCard renamed to WeatherCard
 - WheatherCard `wheather` prop renamed to `weather`
 - PageRoutes renamed to page.routes.js
