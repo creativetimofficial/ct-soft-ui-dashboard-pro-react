@@ -1,5 +1,9 @@
 # Change Log
 
+## [4.0.2] 2023-08-23
+
+- Fix react hooks rule issue
+
 ## [4.0.1] 2023-05-29
 
 - Update dependencies
