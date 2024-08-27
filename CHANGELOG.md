@@ -1,5 +1,10 @@
 # Change Log
 
+## [4.0.3] 2024-08-19
+
+- Update dependencies
+- Fix DefaultProps deprecation warnings
+
 ## [4.0.2] 2023-08-23
 
 - Fix react hooks rule issue
